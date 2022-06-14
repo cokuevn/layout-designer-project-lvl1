@@ -1,0 +1,17 @@
+.header__link {
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #FE8A02;
+    text-decoration: none;
+    color: #FFFFFF;
+    width: 70px;
+    align-self: center;
+    margin-left: 136px;
+    margin-top: 40px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25.6px;
+
+}

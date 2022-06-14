@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  flex-direction: column;
+    position: relative;
+    padding-left: 165px;
+    padding-right: 165px;
+    height: 914px;
+    width: 1110px;
+    
+}
+
+.header::before {
+    content: " ";
+    background-image: url('../../images/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.2;
+    top: 0;
+    position: absolute;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}

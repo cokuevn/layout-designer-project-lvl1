@@ -1,0 +1,19 @@
+.header__title{
+font-weight: 400;
+font-size: 72px;
+line-height: 86.4px;
+color: #FE8A02;
+position: relative;
+font-family: 'Neucha', sans-serif;
+z-index: 3;
+
+}
+
+.header__title::after{
+    content: 'в программировании';
+    position: absolute; top: 40%; left: 0;
+    width: 170%;
+    height: 50%;
+    color: #2A2626;
+
+}

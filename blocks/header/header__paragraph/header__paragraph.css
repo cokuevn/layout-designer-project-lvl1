@@ -1,0 +1,11 @@
+.header__paragraph{
+    font-weight: 400;
+font-size: 16px;
+line-height: 25.6px;
+margin: 0;
+break-inside: avoid;
+margin-bottom: 15px;
+}
+.header__paragraph:last-child{
+margin-bottom: 30px;
+}
